@@ -3,7 +3,7 @@
 This is the code and the files used to create the Montreal crime tracking app by CBC/Radio-Canada.
 
 * [English version](https://newsinteractives.cbc.ca/montreal-crime/)
-* Version en français à venir
+* [Version en français](https://ici.radio-canada.ca/nouvelles/special/crimes-criminalite-vols-mefaits-ville-montreal-police-spvm/index.html)
 
 [Read a full methodology here](http://cbc.ca/1.4574508).
 
