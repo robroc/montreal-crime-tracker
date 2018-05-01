@@ -1,0 +1,1 @@
+var supportingData = {"crime_categories": ["Breaking and entering", "Mischief", "Theft from a vehicle", "Car theft", "Armed robbery", "Fatal crimes"], "mean_per_hex": {"Fatal crimes": 0.1, "Breaking and entering": 30.4, "Mischief": 20.9, "Theft from a vehicle": 24.5, "Car theft": 12.4, "Armed robbery": 5.0}, "max": 636, "min": 1, "latest_date": "April 01, 2018"}

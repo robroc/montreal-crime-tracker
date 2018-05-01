@@ -1,0 +1,5 @@
+mapbox==0.14.0
+numpy==1.12.1
+pandas==0.20.1
+requests==2.14.2
+Shapely==1.5.17.post1

@@ -1,0 +1,14 @@
+_DS_Store
+.DS_Store
+__pycache__/
+.ipynb_checkpoints
+secrets.py
+*.pyc
+*.zip
+*.csv
+build/
+src/police.js
+src/spvmpdq.json
+*.pyc
+hexes_crime.*
+*.geojson
